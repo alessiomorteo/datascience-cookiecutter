@@ -3,6 +3,6 @@
 	filemode = true
 	bare = true
 [remote "origin"]
-	url = https://github.com/drivendata/cookiecutter-data-science
+	url = https://github.com/alessiomorteo/datascience-cookiecutter
 	fetch = +refs/*:refs/*
 	mirror = true
